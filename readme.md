@@ -2,6 +2,8 @@
 
 Test if a string is an SVG path.
 
+[![npm install is-svg-path](https://nodei.co/npm/is-svg-path.png?mini=true)](https://npmjs.org/package/is-svg-path/)
+
 ```js
 const isPath = require('is-svg-path')
 
