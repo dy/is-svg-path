@@ -1,6 +1,6 @@
 {
   "name": "is-svg-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if string an SVG path",
   "main": "index.js",
   "scripts": {
